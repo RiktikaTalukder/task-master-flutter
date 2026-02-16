@@ -1,16 +1,25 @@
-# todo_app
+# 📋 Task Master 
 
-A new Flutter project.
+A feature-rich Flutter Todo application with priority levels, categories, due dates, and persistent local storage.
 
-## Getting Started
+## ✨ Features
+- Add / Delete / Complete tasks
+- Priority levels (High, Medium, Low)
+- Categories with emoji
+- Due date picker
+- Overdue detection
+- Local storage using SharedPreferences
+- Dynamic UI styling
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- shared_preferences
+- intl
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Future Improvements
+- Edit task feature
+- Dark mode
+- Firebase sync
+- Notifications
